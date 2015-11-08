@@ -1,0 +1,3 @@
+<resources>
+    <style name="AppStyleTheme" parent="@android:style/Theme.Light" />
+</resources>

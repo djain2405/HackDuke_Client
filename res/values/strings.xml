@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Android GCM Device To Device</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Android Push Notifications</string>
+    <string name="already_registered">Already registered.</string>
+    <string name="gcm_registered">GCM: Successfully registered.</string>
+    <string name="gcm_unregistered">GCM: Successfully unregistered.</string>
+    <string name="gcm_message">GCM: Got message!</string>
+     <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+</resources>
